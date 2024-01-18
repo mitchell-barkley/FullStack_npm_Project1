@@ -1,0 +1,19 @@
+{
+    "userID": "1",
+    "userData": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@gmail.com",
+        "number":{
+            "home": "1234567890",
+            "mobile": "0987654321"
+        },
+        "address": {
+            "street": "1234 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "12345"
+        }
+    },
+    "key": "1234567890"
+}
